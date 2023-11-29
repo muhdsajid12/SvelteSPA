@@ -1,18 +1,15 @@
 
-# svelte app
+# svelte app SPA 
 
-This is a demo/template for a very simple svelte single page application with a bootstrap based simple responsive side bar.
+This is a demo/template for a very simple svelte single page application with a bootstrap based simple responsive side bar that call API from .Net 6 app. Design using Modernize Bootstrap template (WIP).
+This template design is get from github [https://github.com/sophana/svelte-spa-router-sidebar]
 
 It uses:
 - svelte
 - svelte-spa-router
 - bootstrap
 - [startbootstrap simple sidebar](https://startbootstrap.com/previews/simple-sidebar/)
-
-Please visit [Demo](https://sophana.github.io/svelte-spa-router-sidebar/docs/)
-
-I've also made a [Purecss version](https://github.com/sophana/svelte-spa-router-purecss-sidebar)
-
+- .Net 6 Web API as HTTP request.
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 
